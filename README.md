@@ -12,7 +12,7 @@ Clone the repo in the local folder
   
   **OR**
 run the bash script
-  ./run.sh
+  **./run.sh**
   
   ------DB models created 
   
