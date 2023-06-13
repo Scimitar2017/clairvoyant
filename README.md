@@ -10,6 +10,10 @@ Clone the repo in the local folder
  **docker compose build** - to build the image
   **docker compose up** - to start the container and the app
   
+  **OR**
+run the bash script
+  ./run.sh
+  
   ------DB models created 
   
       Tenant , ProjectMetadata 
